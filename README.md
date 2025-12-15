@@ -1,2 +1,11 @@
-# website_com_nodejs
-Criando sites utilizando NodeJs e Typescript, com intuito de aprender mais linguagens de programação.
+# Projeto Canil
+Praticando criação de site com Node + Typescript
+
+### Pré-requisitos globais:
+`npm i -g nodemon typescript ts-node`
+
+### Instalação
+`npm install`
+
+### Para rodar o projeto
+`npm run start-dev`
