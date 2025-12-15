@@ -1,4 +1,4 @@
-# Projeto Canil
+# Website com NodeJs
 Praticando criação de site com Node + Typescript
 
 ### Pré-requisitos globais:
