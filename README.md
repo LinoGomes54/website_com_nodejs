@@ -1,5 +1,5 @@
 # Website com NodeJs
-Praticando criação de site com Node + Typescript
+Praticando criação de site com Node + Typescript + Mustache
 
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript ts-node`
